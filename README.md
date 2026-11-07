@@ -5,7 +5,7 @@ I'm interested in rocket avionics and wanted to design a board of my own to lear
 I worked on the component selection, schematic and PCB layout in KiCad. The aim is to get experience with the whole process, from reading datasheets and routing a board to assembling it and getting sensor readings back.
 
 ### 3D View
-![PCB 3D View](Images/pcb-3d.png)
+![PCB 3D View](Images/v1.png)
 
 *KiCad 3D render. Some components may not have a 3D model.*
 
