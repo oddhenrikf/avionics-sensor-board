@@ -1,6 +1,7 @@
 # Avionics sensor board
 
 I'm interested in rocket avionics and wanted to design a board of my own to learn more about the hardware side. This is a four-layer sensor board built around an STM32 microcontroller, with motion and environmental sensors, USB-C and a 3.3 V power supply.
+Please keep in mind that it is still revision 1... 
 
 I worked on the component selection, schematic and PCB layout in KiCad. The aim is to get experience with the whole process, from reading datasheets and routing a board to assembling it and getting sensor readings back.
 
